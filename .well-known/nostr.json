@@ -1,9 +1,9 @@
 {
   "names": {
-    "ghost_mode": "5974020a59972304859f935398679f6485055b854e460492868285521b44917e"
+    "ghost_mode": "c13ca9d5e78f0e21acc2ad18c2d3527b6d8a1e349a53b754591559f147284350"
   },
   "relays": {
-    "5974020a59972304859f935398679f6485055b854e460492868285521b44917e": [
+    "c13ca9d5e78f0e21acc2ad18c2d3527b6d8a1e349a53b754591559f147284350": [
       "wss://nos.lol",
       "wss://relay.damus.io",
       "wss://relay.snort.social",
