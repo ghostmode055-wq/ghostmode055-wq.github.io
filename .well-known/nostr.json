@@ -1,15 +1,13 @@
 {
   "names": {
-    "ghost_mode": "c13ca9d5e78f0e21acc2ad18c2d3527b6d8a1e349a53b754591559f147284350"
+    "ghost_mode": "c13e4577cf11f81c86acae8864d869a1b72a78f864b4e752ac6554b7468c406a"
   },
   "relays": {
-    "c13ca9d5e78f0e21acc2ad18c2d3527b6d8a1e349a53b754591559f147284350": [
-      "wss://nos.lol",
+    "c13e4577cf11f81c86acae8864d869a1b72a78f864b4e752ac6554b7468c406a": [
       "wss://relay.damus.io",
-      "wss://relay.snort.social",
+      "wss://nos.lol",
       "wss://relay.primal.net",
-      "wss://nostr.mom",
-      "wss://offchain.pub",
+      "wss://nostr.wine",
       "wss://purplepag.es"
     ]
   }
